@@ -1,7 +1,8 @@
+import Card from "../../public/components/Cards/Cards";
 export default function Home() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <Card />
     </div>
   );
 }
